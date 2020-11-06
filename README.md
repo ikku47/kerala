@@ -1,3 +1,3 @@
-# keralataluk
+# kerala districts and taluk JSON
 
-JSON list of taluks in kerala
+JSON list of districts and taluks in kerala
